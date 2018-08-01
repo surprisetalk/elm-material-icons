@@ -8,7 +8,7 @@ It comes with a stylesheet and icons helpers:
 import MaterialIcons
   exposing ( stylesheet
            , wrench
-           , AccountKey
+           , accountKey
            , briefcase
            )
 
