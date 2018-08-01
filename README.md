@@ -1,5 +1,5 @@
 
-# Elm-Font-Awesome
+# Elm-Material-Icons
 
 This package has a really easy-to-use API, with plenty of options!
 
